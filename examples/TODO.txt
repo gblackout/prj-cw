@@ -1,0 +1,8 @@
+1. generating FOL with fol verifier with diversifier
+
+2. generating code data with code parser
+
+3. code agent solving reasoning problem
+
+4. generating instruction sft data
+
